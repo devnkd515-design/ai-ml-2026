@@ -1,0 +1,26 @@
+[
+    {
+        "id": 101,
+        "name": "Devanshu",
+        "marks": [85, 92, 78],
+        "attendance": 91
+    },
+    {
+        "id": 102,
+        "name": "Rahul",
+        "marks": [72, 81, 69],
+        "attendance": 84
+    },
+    {
+        "id": 103,
+        "name": "Aman",
+        "marks": [95, 88, 91],
+        "attendance": 96
+    },
+    {
+        "id": 104,
+        "name": "Neha",
+        "marks": [55, 62, 58],
+        "attendance": 72
+    }
+]
